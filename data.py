@@ -9,7 +9,7 @@ import time
 logging.basicConfig(filename='debug.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # List of websites
-websites = ["google.co.uk", "microsoft.com", "amazon.co.uk", "facebook.com", "x.com", "google.com", "github.com", "bbc.co.uk", "apple.com", "www.gov.uk", "spotify.com" "youtube.com", "reddit.com", "netflix.com", "tiktok.com", "bing.com", "instagram.com", "bluesky.com"]
+websites = ["google.co.uk", "microsoft.com", "amazon.co.uk", "facebook.com", "x.com", "google.com", "github.com", "bbc.co.uk", "apple.com", "www.gov.uk", "spotify.com", "youtube.com", "reddit.com", "netflix.com", "tiktok.com", "bing.com", "instagram.com", "bluesky.com"]
 # List of custom DNS servers
 dns_servers = ["dns.quad9.net", "dns11.quad9.net", "one.one.one.one", "dns.google.com", "62.6.40.178", "dns.controld.com"]
 
